@@ -24,7 +24,7 @@ class GrapqlApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Flutter GraphQL Clean Architecture',
         theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.green,
         ),
         home: const HomePage(),
       ),
